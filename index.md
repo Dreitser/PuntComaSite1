@@ -94,7 +94,6 @@ end
 
 ### Small image
 
-![Octocat](https://github.com/Dreitser/PuntComaSite1/blob/master/PuntComaLogo.jpg)
 
 ### Large image
 
